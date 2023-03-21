@@ -1,0 +1,28 @@
+body {
+    background-color: #1f2833;
+}
+
+#container {
+    background-color: black;
+    border: 5px solid bisque;
+    height: 275px;
+    width: 750px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#btn {
+    margin: 50px auto;
+    height: 50px;
+    width: 250px;
+    font-size: 24px;
+    background-color: silver;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#output {
+    margin: 25px auto;
+    color: #66fcf1;
+    font-size: 28px;
+}
